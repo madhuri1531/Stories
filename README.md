@@ -4,7 +4,7 @@ Run the completed project to understand what you're building
 
 ```sh
 # Clone the project
-https://github.com/Viswan588/HackerNews.git
+https://github.com/madhuri1531/Stories.git
 # Install dependencies
 npm install
 
